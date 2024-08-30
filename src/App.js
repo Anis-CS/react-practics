@@ -1,12 +1,12 @@
 import React from 'react'
-import List from './component/UniqueList/list';
+import List from './component/UniqueList/list'
 
 
 function App() {
   
   return (
           
-        <List/>
+       <List/>
   );
     
 }
